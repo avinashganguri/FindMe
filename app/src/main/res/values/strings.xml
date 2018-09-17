@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Find Me</string>
+    <string name="think_about_a_number_b_w_1_and_20_xd">Think about a number B/W 1 and 20 xD</string>
+    <string name="name">Name</string>
+    <string name="think_a_number_b_w_1_and_20">Think a number b/w 1 and 20.</string>
+    <string name="guess_me">Guess Me ?</string>
+    <string name="guess">Guess</string>
+    <string name="_2_mysterious_number_lies_between_1_to_40">2. Mysterious Number lies between 1 to 40.</string>
+    <string name="_3_move_forward_suggests_you_to_increase_the_number">3. Move Forward suggests you to increase the Number.</string>
+    <string name="_4_move_backward_suggests_you_to_decrease_the_number">4. Move Backward suggests you to decrease the Number.</string>
+    <string name="rules">Rules:</string>
+    <string name="_1_you_have_to_find_out_the_mysterious_number">1. You have to find out the Mysterious Number.</string>
+    <string name="space_impactor_inc_2018">© Space Impactor Inc. 2018</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="find_me">Find Me ?</string>
+    <string name="todo">TODO</string>
+</resources>
